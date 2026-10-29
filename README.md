@@ -1,7 +1,7 @@
 <table border="1" style="border-collapse: collapse; width: 70%; text-align: center; font-family: Arial, sans-serif;">
   <tr>
     <th colspan="4" style="font-family: Georgia, serif; font-size: 30px; font-weight: bold; font-style: italic; color: #4b0082; background-color: #f5e6ff; padding: 15px;">
-      Colors of the Rainbow
+      Colors of the Sunset
     </th>
   </tr>
 
