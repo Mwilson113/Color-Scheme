@@ -1,38 +1,35 @@
-<table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th colspan="4" style="font-family: 'Courier New', monospace; font-size: 24px; color: #ff5722; font-weight: bold; text-align: center; background-color: #212121;">
-        Colors of the Monarch Butterfly
-      </th>
-    </tr>
-    <tr>
-      <th style="background-color: #ff6f00;">Orange</th>
-      <th style="background-color: #424242;">Black</th>
-      <th style="background-color: #f5f5f5;">White</th>
-      <th style="background-color: #ffd54f;">Gold</th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>#ff6f00</td>
-      <td>#424242</td>
-      <td>#f5f5f5</td>
-      <td>#ffd54f</td>
-    </tr>
-    <tr>
-      <td>rgb(255, 111, 0)</td>
-      <td>rgb(66, 66, 66)</td>
-      <td>rgb(245, 245, 245)</td>
-      <td>rgb(255, 213, 79)</td>
-    </tr>
-    <tr>
-      <td>hsl(26, 100%, 50%)</td>
-      <td>hsl(0, 0%, 26%)</td>
-      <td>hsl(0, 0%, 96%)</td>
-      <td>hsl(43, 100%, 65%)</td>
-    </tr>
-  </tbody>
-</table>
+<table border="1" style="border-collapse: collapse; width: 70%; text-align: center; font-family: Arial, sans-serif;">
+  <tr>
+    <th colspan="4" style="font-family: Georgia, serif; font-size: 30px; font-weight: bold; font-style: italic; color: #4b0082; background-color: #f5e6ff; padding: 15px;">
+      Colors of the Rainbow
+    </th>
+  </tr>
 
-  
- 
+  <tr>
+    <th style="background-color: #FFD400; color: #000000; padding: 10px;">Gold</th>
+    <th style="background-color: #FF8400; color: #000000; padding: 10px;">Orange</th>
+    <th style="background-color: #DC143C; color: #ffffff; padding: 10px;">Crimson</th>
+    <th style="background-color: #800020; color: #ffffff; padding: 10px;">Burgundy</th>
+  </tr>
+
+  <tr>
+    <td style="background-color: #FFD400; color: #000000;">#FFD400</td>
+    <td style="background-color: #FF8400; color: #000000;">#FF8400</td>
+    <td style="background-color: #DC143C; color: #ffffff;">#DC143C</td>
+    <td style="background-color: #800020; color: #ffffff;">#800020</td>
+  </tr>
+
+  <tr>
+    <td style="background-color: rgb(255, 212, 0); color: #000000;">rgb(255, 212, 0)</td>
+    <td style="background-color: rgb(255, 132, 0); color: #000000;">rgb(255, 132, 0)</td>
+    <td style="background-color: rgb(220, 20, 60); color: #ffffff;">rgb(220, 20, 60)</td>
+    <td style="background-color: rgb(128, 0, 32); color: #ffffff;">rgb(128, 0, 32)</td>
+  </tr>
+
+  <tr>
+    <td style="background-color: hsl(50, 100%, 50%); color: #000000;">hsl(50, 100%, 50%)</td>
+    <td style="background-color: hsl(32, 100%, 50%); color: #000000;">hsl(32, 100%, 50%)</td>
+    <td style="background-color: hsl(348, 83%, 47%); color: #ffffff;">hsl(348, 83%, 47%)</td>
+    <td style="background-color: hsl(343, 100%, 25%); color: #ffffff;">hsl(343, 100%, 25%)</td>
+  </tr>
+</table>
